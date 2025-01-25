@@ -1,0 +1,2 @@
+
+    q.push(NULL);
