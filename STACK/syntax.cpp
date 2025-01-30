@@ -1,3 +1,6 @@
+
+// Stack = stack is a linear data structure work on the principle of LIFO
+
 #include<iostream>
 #include<stack>
 using namespace std ; 
